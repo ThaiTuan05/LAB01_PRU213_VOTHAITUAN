@@ -66,3 +66,9 @@ DesignPreviews/
 #   git add -f Backup_BeforeMechanics
 Backup_BeforeMechanics/
 
+# One-off PowerShell script that drew the placeholder sprites
+# (Star, Laser, Button states, Panel) now in Assets/SpaceExplorer.
+# Kept locally as provenance, but not part of the game.
+# Restore with: git add -f Tools
+Tools/
+
